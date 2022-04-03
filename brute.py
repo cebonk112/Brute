@@ -1,7 +1,7 @@
-# Coded By @Sptty Chan
-# https://www.facebook.com/100024425583446
-# https://github.com/sptty-chan
-# Jangan Diubah Ubah Lagi Anj
+# Coded by @cebonk
+# https://www.facebook.com/100003056150890
+# https://github.com/cebonk112
+# hp/wa:085369666987
 
 import requests,bs4,json,os,sys,random,datetime,time,re,base64,subprocess,uuid
 try:
@@ -139,7 +139,7 @@ def jalan(z):
 # BANNER
 def banner():
 	clear()
-	krek = """▄▄▄▄    ██▀███    █    ██ ▄▄▄█████▓▓█████   © Authour : DICKY        ▓█████▄ ▓██ ▒ ██▒ ██  ▓██▒▓  ██▒ ▓▒▓█   ▀       Versi 2.0                ▒██▒ ▄██▓██ ░▄█ ▒▓██  ▒██░▒ ▓██░ ▒░▒███                                ▒██░█▀  ▒██▀▀█▄  ▓▓█  ░██░░ ▓██▓ ░ ▒▓█  ▄                                ░▓█  ▀█▓░██▓ ▒██▒▒▒█████▓   ▒██▒ ░ ░▒████▒   Github : Dicky-XD            ░▒▓███▀▒░ ▒▓ ░▒▓░░▒▓▒ ▒ ▒   ▒ ░░   ░░ ▒░ ░                                 ▒░▒   ░   ░▒ ░ ▒░░░▒░ ░ ░     ░     ░ ░  ░                                   ░    ░   ░░   ░  ░░░ ░ ░   ░         ░                                   ░         ░        ░                 ░  ░"""
+	krek = """▄▄▄▄    ██▀███    █    ██ ▄▄▄█████▓▓█████   © Authour : CEBONK        ▓█████▄ ▓██ ▒ ██▒ ██  ▓██▒▓  ██▒ ▓▒▓█   ▀       Versi 2.0                ▒██▒ ▄██▓██ ░▄█ ▒▓██  ▒██░▒ ▓██░ ▒░▒███                                ▒██░█▀  ▒██▀▀█▄  ▓▓█  ░██░░ ▓██▓ ░ ▒▓█  ▄                                ░▓█  ▀█▓░██▓ ▒██▒▒▒█████▓   ▒██▒ ░ ░▒████▒   Github : cebonk112            ░▒▓███▀▒░ ▒▓ ░▒▓░░▒▓▒ ▒ ▒   ▒ ░░   ░░ ▒░ ░                                 ▒░▒   ░   ░▒ ░ ▒░░░▒░ ░ ░     ░     ░ ░  ░                                   ░    ░   ░░   ░  ░░░ ░ ░   ░         ░                                   ░         ░        ░                 ░  ░"""
 	cetak(nel(krek, style='purple'))
 	
 # VALIDASI TOKEN
